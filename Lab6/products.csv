@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Laptop,Electronics,1200
+2,Smartphone,Electronics,800
+3,Desk Chair,Furniture,150
+4,Office Desk,Furniture,300
+5,Headphones,Electronics,100
+6,Monitor,Electronics,250
+7,Bookshelf,Furniture,200
+8,Blender,Appliances,75
+9,Microwave,Appliances,120
+10,Air Fryer,Appliances,180
+11,Keyboard,Electronics,45
+12,Mouse,Electronics,25
+13,Webcam,Electronics,60
+14,Router,Electronics,100
+15,Smartwatch,Electronics,200
+16,Tablet,Electronics,500
+17,Game Console,Electronics,400
+18,Projector,Electronics,700
+19,Electric Kettle,Appliances,50
+20,Toaster,Appliances,30
+21,Floor Lamp,Furniture,85
+22,Wall Art,Furniture,120
+23,Coffee Maker,Appliances,90
+24,Rug,Furniture,150
+25,Sofa,Furniture,900
+26,Air Conditioner,Appliances,600
+27,Dining Table,Furniture,700
+28,Bed Frame,Furniture,450
+29,Mattress,Furniture,500
+30,Vacuum Cleaner,Appliances,150
+31,Iron,Appliances,40
+32,Food Processor,Appliances,200
+33,Digital Camera,Electronics,350
+34,Laptop Stand,Electronics,40
+35,External Hard Drive,Electronics,120
+36,Portable Charger,Electronics,30
+37,Wireless Earbuds,Electronics,80
+38,Electric Grill,Appliances,100
+39,Dishwasher,Appliances,800
+40,Washing Machine,Appliances,1000
+41,Refrigerator,Appliances,1200
+42,Television,Electronics,1000
+43,Home Theater System,Electronics,600
+44,Smart Speaker,Electronics,150
+45,Home Security Camera,Electronics,120
+46,Electric Toothbrush,Appliances,60
+47,Cordless Vacuum,Appliances,180
+48,Smart Light Bulb,Electronics,25
+49,Smart Thermostat,Electronics,150
+50,Air Purifier,Appliances,250
